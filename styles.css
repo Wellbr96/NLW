@@ -53,6 +53,7 @@ main {
 
     display: grid;
     gap: 24px;
+    
 }
 section {
     color: white;
@@ -77,6 +78,7 @@ section p {
 }
 section ul {
     display: flex;
+    flex-wrap: wrap;
     gap: 16px;
 
     margin-top: 24px;
